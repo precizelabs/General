@@ -1,0 +1,15 @@
+# Creating new Google Business Account    
+ - Open Google Chrome 
+ - Click the user list icon at top right 
+ - From there, click the Add button 
+ - ![](Images/add-new-google-profile-click.png)  
+ - In the next window enter your name
+ - ![](Images/add-new-google-profile-enter-your-name.png)
+ - Then navigate to this address to create new account `https://accounts.google.com/signup`
+ - Click `Use my current email address instead` to use company email address 
+ - ![](Images/add-new-google-profile-switch-to-company-email.png)
+ - then continue the steps and create account 
+ - Provide your phone number also 
+ - Don't forget to turn on sync 
+ - When ever you need new password, please use google password generator as below 
+ - ![](Images/add-new-google-profile-password-gen.png)
