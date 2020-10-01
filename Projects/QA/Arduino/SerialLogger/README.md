@@ -7,3 +7,6 @@
  - If you want, you can select a differnet path for `Log file name`
  - Go to, `Session` and use below settings 
  - ![](https://raw.githubusercontent.com/precizelabs/General/master/Projects/QA/Arduino/SerialLogger/image/putty-session-settings.png)
+ - Make sure you set correct serial port and baud rate 
+ - Click open button 
+ - You can see the data will be saved into the file specified in the Loggin section 
